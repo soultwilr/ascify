@@ -16,9 +16,9 @@ Designed for maximum performance, `ascify` uses pre-computed Look-Up Tables (LUT
 
 | Original | ASCII Art |
 | --- | --- |
-| ![original](./assets/takanashi-hoshino.jpg)  | ![asciiart](./assets/2026-08-17-221654_hyprshot.png)  |
+| ![original](./assets/takanashi-hoshino.jpg =300x200)  | ![asciiart](./assets/takaascii.png)  |
 | --- | --- |
-| ![original](./assets/wallhaven-7pzyko.png) | ![asciiart](./assets/2026-08-17-221639_hyprshot.png) |
+| ![original](./assets/wallhaven-7pzyko.png =300x200) | ![asciiart](./assets/winascii.png) |
 
 ## 🛠️ Prerequisites
 
@@ -60,7 +60,7 @@ sudo make install
 Once installed, you can use the `ascify` command from anywhere.
 
 <video width="600">
-  <source src="./assets/recording_20260817_221601.mp4" type="video/mp4">
+  <source src="./assets/video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
