@@ -16,9 +16,9 @@ Designed for maximum performance, `ascify` uses pre-computed Look-Up Tables (LUT
 
 | Original | ASCII Art |
 | --- | --- |
-| ![original](./assets/takanashi-hoshino.jpg =300x200)  | ![asciiart](./assets/takaascii.png)  |
+| <img src="./assets/takanashi-hoshino.jpg" alt="anime image" width="400">  | ![asciiart](./assets/takaascii.png)  |
 | --- | --- |
-| ![original](./assets/wallhaven-7pzyko.png =300x200) | ![asciiart](./assets/winascii.png) |
+| <img src="./assets/wallhaven-7pzyko.png" alt="win image" width="400"> | ![asciiart](./assets/winascii.png) |
 
 ## 🛠️ Prerequisites
 
