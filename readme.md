@@ -14,6 +14,12 @@ Designed for maximum performance, `ascify` uses pre-computed Look-Up Tables (LUT
 * ⚡ **Highly Optimized:** Zero floating-point math in the render loop and single-call `fputs` rendering for flicker-free video playback.
 * 🌗 **Customizable:** Invert colors for dark-mode terminals, define custom ASCII palettes, and handle PNG transparency.
 
+| Original | ASCII Art |
+| --- | --- |
+| ![original](./assets/takanashi-hoshino.jpg)  | ![asciiart](./assets/2026-08-17-221654_hyprshot.png)  |
+| --- | --- |
+| ![original](./assets/wallhaven-7pzyko.png) | ![asciiart](./assets/2026-08-17-221639_hyprshot.png) |
+
 ## 🛠️ Prerequisites
 
 * `gcc` and `make` (for compiling)
@@ -52,6 +58,11 @@ sudo make install
 ## 🚀 Usage
 
 Once installed, you can use the `ascify` command from anywhere.
+
+<video width="600">
+  <source src="./assets/recording_20260817_221601.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Basic Examples
 
