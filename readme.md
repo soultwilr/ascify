@@ -59,10 +59,7 @@ sudo make install
 
 Once installed, you can use the `ascify` command from anywhere.
 
-<video width="600">
-  <source src="./assets/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="./assets/demo.gif" alt="damo video gif" width="600">
 
 ### Basic Examples
 
